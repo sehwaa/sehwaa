@@ -17,8 +17,10 @@
   <h3> 🔭 I'm currently interested in ... </h3>
   - Machine Learning & Deep Learning <br>
   - Mobile App Programming (Flutter) <br>
+  - Computer Vision & Graphics <br>
   - Chatbot <br>
   - Metaverse <br>
+  - Algorithm <br>
   <br>
   <h3> 👯 I’m looking to collaborate on ... </h3>
   - Mobile App Service Project (frontend - Flutter / Backend - Flask or Node.js / CI-CD - AWS, GCP, Firebase ) <br>
