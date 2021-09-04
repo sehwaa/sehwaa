@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/> <br>
+  <img src="https://img.shields.io/badge/Android-339933?style=flat-square&logo=Android&logoColor=white"/> <br>
   <br>
   <h3> 🔭 I'm currently interested in ... </h3>
   - Machine Learning & Deep Learning <br>
@@ -23,7 +25,7 @@
   - Algorithm <br>
   <br>
   <h3> 👯 I’m looking to collaborate on ... </h3>
-  - Mobile App Service Project (frontend - Flutter / Backend - Flask or Node.js / CI-CD - AWS, GCP, Firebase ) <br>
+  - Mobile App Service Project <br>
   - Chat Bot Service Project (Discord, Telegram, Kakao ...) <br>
   - Metaverse Project <br>
   <br>
