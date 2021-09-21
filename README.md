@@ -18,7 +18,7 @@
   <br>
   <h3> 🔭 I'm currently interested in ... </h3>
   - Machine Learning & Deep Learning <br>
-  - Mobile App Programming (Flutter) <br>
+  - Mobile App Programming <br>
   - Computer Vision & Graphics <br>
   - Chatbot <br>
   - Metaverse <br>
