@@ -27,7 +27,7 @@
   <h3> 👯 I’m looking to collaborate on ... </h3>
   - Mobile App Service Project <br>
   - Chat Bot Service Project (Discord, Telegram, Kakao ...) <br>
-  - Metaverse Project <br>
+  - Metaverse Project (Roblox!!!) <br>
   <br>
   <h3> 📫 How to reach me </h3>
   - email: myislands4855@gmail.com <br>
