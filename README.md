@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1> Hi! I'm Sarah Na </h1>
+  <h1>  </h1>
 </div>
 <div align="center"> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src = "https://github-readme-stats.vercel.app/api?username=sehwaa"> </a>
@@ -16,27 +16,14 @@
   <img src="https://img.shields.io/badge/Java-345345?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android-678345?style=flat-square&logo=Android&logoColor=white"/> <br>
   <br>
-  <h3> 🔭 I'm currently interested in ... </h3>
-  - Machine Learning & Deep Learning <br>
-  - Mobile App Programming <br>
-  - Computer Vision & Graphics <br>
-  - Chatbot <br>
-  - Metaverse <br>
-  - Algorithm <br>
-  <br>
-  <h3> 👯 I’m looking to collaborate on ... </h3>
-  - Mobile App Service Project <br>
-  - Chat Bot Service Project (Discord, Telegram, Kakao ...) <br>
-  - Metaverse Project (Roblox!!!) <br>
-  <br>
-  <h3> 📫 How to reach me </h3>
-  - email: myislands4855@gmail.com <br>
-  - blog: <a href="https://2island.tistory.com">Tistory Blog</a> or <a href="https://medium.com/@nsh235482"> Medium Blog </a> <br>
-  <br>
   <h3>🕴Work Experience</h3>
   - <b> Zigbang : </b> IoT Service Developer <br>
   - <b> Suprema Inc. : </b> Software Engineer<br>
   - <b> Naran Inc. : </b> Backend Developer <br>
+  <br>
+  <h3> 📫 How to reach me </h3>
+  - email: myislands4855@gmail.com <br>
+  - blog: <a href="https://2island.tistory.com">Tistory Blog</a> or <a href="https://medium.com/@nsh235482"> Medium Blog </a> <br>
   <br>
   <h3> 🎓Education </h3> 
   - Sungshin Women's Univ. Information Technology <br>
