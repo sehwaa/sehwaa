@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Android-678345?style=flat-square&logo=Android&logoColor=white"/> <br>
   <br>
   <h3>🕴Work Experience</h3>
+  - <b> Quantum Universe : </b> XR Developer <br>
   - <b> Zigbang : </b> IoT Service Developer <br>
   - <b> Suprema Inc. : </b> Software Engineer<br>
   - <b> Naran Inc. : </b> Backend Developer <br>
