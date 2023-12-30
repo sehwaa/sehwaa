@@ -10,16 +10,21 @@
   <h3> 👇 Today's Visit 👇 </h3> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsehwaa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a> <br>
   <br>
   <h3> 👩🏻‍💻 Technology Stack </h3>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Csharp-512BD4?style=flat-square&logo=Csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playcanvas-E05F2C?style=flat-square&logo=Playcanvas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SparkAR-FF5C83??style=flat-square&logo=SparkAR&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-345345?style=flat-square&logo=Java&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Android-678345?style=flat-square&logo=Android&logoColor=white"/> <br>
   <br>
   <h3>🕴Work Experience</h3>
   - <b> Quantum Universe : </b> XR Developer <br>
   - <b> Zigbang : </b> IoT Service Developer <br>
-  - <b> Suprema Inc. : </b> Software Engineer<br>
+  - <b> Suprema Inc. : </b> Software Engineer <br>
   - <b> Naran Inc. : </b> Backend Developer <br>
   <br>
   <h3> 📫 How to reach me </h3>
